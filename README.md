@@ -6,7 +6,7 @@ A short, server-based, 2D multi-player, fan-made version of the Kirby Super Star
 #### LEAD PROGRAMMER: Samil Chai
 #### JUNIOR PROGRAMMER: Sally Park
 
-++ code and demo are private for copyright reasons for the graphics, please email sallypark73@hotmail.com
+++ code and demo are private for copyright reasons on the graphics, please email sallypark73@hotmail.com
 </br>
 </br>
 
