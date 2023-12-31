@@ -22,7 +22,7 @@ A short, server-based, 2D multi-player, fan-made version of the Kirby Super Star
 - Developer Mode (for testing and debugging)
 
 ## Languages/Tools + IDE
-**Client:**
+#### **Client:**
 
 **macOS/cross-platform (ver 12.6 or later)**
 
@@ -39,7 +39,7 @@ IDE: 🔨 Xcode
 
 👩🏻‍💻 Objective-C
 
-**Server:**
+#### **Server:**
 
 IDE: 📝Eclipse
 
